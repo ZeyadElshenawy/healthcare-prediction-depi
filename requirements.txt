@@ -1,0 +1,20 @@
+# Core data stack
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Notebooks
+jupyter
+notebook
+ipykernel
+
+# Experiment tracking
+mlflow
+
+# REST API (src/app.py)
+flask
